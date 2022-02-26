@@ -1,0 +1,4 @@
+let vision: string;
+    console.log(vision);
+vision = 'hello world';
+    console.log(vision);
