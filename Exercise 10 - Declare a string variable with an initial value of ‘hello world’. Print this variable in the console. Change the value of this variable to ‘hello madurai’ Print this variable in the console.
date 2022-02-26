@@ -1,0 +1,5 @@
+let worldToTn: string;
+worldToTn = 'hello world';
+    console.log(worldToTn);
+worldToTn = 'hello chidambaram';
+    console.log(worldToTn);
