@@ -1,0 +1,5 @@
+let b: number;
+b = 100;
+    console.log(b);
+b = 200;
+    console.log(b);
