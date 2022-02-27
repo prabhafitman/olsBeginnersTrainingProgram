@@ -1,3 +1,2 @@
-let intro: string;
-intro = 'hello world';
+let intro: string = 'hellow world';
 console.log(intro);
