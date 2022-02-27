@@ -1,2 +1,1 @@
-let olsTrainee: boolean = true;
-olsTrainee;
+let olsTrainee: boolean;
